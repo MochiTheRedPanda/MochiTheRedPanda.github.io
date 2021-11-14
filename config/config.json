@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb197aC9E808b62C32D18600a0eBA2CbEFed73018",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb197aC9E808b62C32D18600a0eBA2CbEFed73018",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mochi The Red Panda",
+  "SYMBOL": "MTRP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 295000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mochi-the-red-panda",
+  "SHOW_BACKGROUND": true
+}
